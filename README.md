@@ -30,4 +30,4 @@ This project simulates a simple 3x3 slot machine with five distinct symbols, inc
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Atulsah17/Slot-_Machine-_Simulation
+   git clone https://github.com/Atulsah17/Slot_Machine_Simulation
